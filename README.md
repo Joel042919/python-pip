@@ -1,3 +1,5 @@
+# DESCRIPCION
+Aqui verás dos proyectos uno simple de un juego de piedra papel o tijera y otro de la implementación de un servidor web a través de python.
 
 # Game Project
 
@@ -10,15 +12,4 @@ python3 main.py
 
 ```
 
-# App Project
-
-```sh
-
-git clone
-cd app
-source env/bin/activate
-pip3 install -r requirements.txt
-python3 main.py
-
-```
 
